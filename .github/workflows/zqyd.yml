@@ -33,7 +33,7 @@ jobs:
           npm install
       - name: '运行 【zqyd】'
         run: |
-          node Task/zq.js
+          node Task/zqyd.js
         env:
           #RLURL: ${{ secrets.RLURL }}
           #RLHEADER: ${{ secrets.RLHEADER }}
