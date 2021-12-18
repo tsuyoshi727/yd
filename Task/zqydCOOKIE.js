@@ -1,7 +1,7 @@
 module.exports = {
     "id": "zqyd",
     "name": "钟情阅读",
-    "keys": ["zqydbody","zqydbody2",],
+    "keys": ["zqydbody","zqydbody2","zqydbody3","zqydbody4","zqydbody5","zqydbody6"],
     "author": "@tom",
     "settings": [{
       "id": "zqydSuffix",
@@ -12,7 +12,7 @@ module.exports = {
     }, {
       "id": "zqydCount",
       "name": "账号个数",
-      "val": "1",
+      "val": "6",
       "type": "number",
       "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
     }, {
